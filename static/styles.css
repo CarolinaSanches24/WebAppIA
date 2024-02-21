@@ -1,0 +1,16 @@
+body {
+  background: rgb(118, 123, 222);
+  background: radial-gradient(
+    circle,
+    rgba(118, 123, 222, 1) 49%,
+    rgba(184, 1, 224, 1) 73%
+  );
+  color: #fff;
+}
+
+.container {
+  margin-top: 20px;
+}
+.btn-success {
+  margin-top: 15px;
+}
